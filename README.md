@@ -31,6 +31,8 @@ A company needs to detect and prevent network-based attacks targeting their infr
 - **Attack Prevention**: Identifies and blocks malicious network activities
 - **Compliance**: Meets regulatory requirements for network monitoring
 
+---
+
 ## Configuration & Screenshots
 
 ### 1. Suricata Repository Setup
